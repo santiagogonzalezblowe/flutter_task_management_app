@@ -1,0 +1,4 @@
+enum TaskCategory {
+  personal,
+  work,
+}

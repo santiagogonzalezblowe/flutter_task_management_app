@@ -1,0 +1,4 @@
+enum TaskStatus {
+  completed,
+  incompleted,
+}
